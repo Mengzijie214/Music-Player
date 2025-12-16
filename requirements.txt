@@ -1,0 +1,5 @@
+PyQt6==6.7.0
+pygame==2.5.2
+pydub==0.25.1
+mutagen==1.47.0
+python-dotenv==1.0.1
